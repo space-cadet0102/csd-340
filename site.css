@@ -1,0 +1,50 @@
+html {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+h1 {
+    background-color: cornflowerblue;
+    color: firebrick;
+    border: 1px;
+    border-color: #d6a800;
+    padding: 10px;
+}
+h2 {
+    background-color: cornflowerblue;
+    color: firebrick;
+    border: 1px;
+    border-color: #d6a800;
+    padding: 10px;
+}
+h3 {
+    background-color: cornflowerblue;
+    color: firebrick;
+    border: 1px;
+    border-color: #d6a800;
+    padding: 10px;
+ }
+ h4 {
+    background-color: cornflowerblue;
+    color: firebrick;
+    border: 1px;
+    border-color: #d6a800;
+    padding: 10px;
+ }
+
+a {
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+a:hover {
+    color: black;
+    font-style: italic;
+}
+
+a:visited {
+    color: brown;
+    text-decoration: solid;
+}
