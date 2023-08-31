@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+.id {
+    margin-top: 10%;
+}
+h3 {
+    text-align: center;
+}
+figure {
+    text-align: center;
+}
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+}
+a {
+    float: right;
+    font-weight: bold;
+    color: black;
+}
+a:hover {
+    color: red;
+}
+.left{
+    width: 31%;
+    display: inline-block;
+    text-align: left;
+    padding-left: 1rem;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+}
+.middle{
+    width: 30%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+    margin-bottom: 9%;
+}
+.right{
+    width: 32%;
+    display: inline-block;
+    text-align: right;
+    border: 1px;
+    border-color: red;
+    border-style: solid;
+}
